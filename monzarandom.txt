@@ -1,0 +1,87 @@
+once on our new server
+
+type in scp setup/something_else.sh root@<vip_address>:/tmp
+
+root can mean 3 things:
+root  -root user
+/     -root directory
+/root -a directory literally called root that isn't the root directory; it's the home directory of the root user: it's weirdly not in the /home directory
+
+
+
+
+scp -r (folder)
+then ssh in
+
+update
+
+
+
+###################
+
+
+
+from bs4 import BeautifulSoup
+
+import requests
+
+response = requests.get('http://byteacademy.co')
+
+test is to create a flask app and put it online
+
+http: //$IP_ADDRESS: $PORT_NUMBER /$NAMESPACE
+
+...this in browser should lead to
+$NAMESPACE
+
+a controller that spits out a website that has the text of whatever the namespace is
+
+
+take everything from a file, write it to a database... IE equities today. bats_symbols_traded_bzx.csv
+
+creating a bunch of tables with the names
+can be hash
+
+bunch of stuff in the controllers directory
+bunch of stuff in templates
+front page
+Login page
+
+creat a file that sanitizes the strings...   throw and underscore infront of all the names ...any symbol or combo of numbers
+    certification, .bats_symbols_traded_bzx
+
+    download copy of python3 reserved words
+# hashing function
+    create a lookup table
+
+    create a dictionary
+
+    CREATE a scheme to sanitize input
+
+    cant go wrong with a single _ first or after _
+
+    change host to '0.0.0.0', port = 5000 to deploy in flask
+
+    make sure hash tag
+
+read all the namespaces into the list
+create a bunch of copies
+for _ in list of namespaces
+
+register blueprint in the __init__ file
+
+setup directory
+sanitize.py
+templates for your output files
+run directory
+
+day 2
+
+HUP  aka a hangup.  stdin ---> channel ----> stdout stdarr
+
+instead of
+
+show_return
+
+
+in general view your account
