@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+###ominbus is a random variable###
 from core import omnibus
 
 if __name__ == '__main__':
